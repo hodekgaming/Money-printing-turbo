@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+config.toml
+storage/
+!storage/.gitkeep
+resource/songs/*.mp3
+!resource/songs/demo_*.mp3
+.pytest_cache/
